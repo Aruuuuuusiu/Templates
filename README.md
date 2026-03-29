@@ -27,12 +27,13 @@ Built with a clean layout, smooth navigation, and a strong content-first approac
 
 ---
 
-## 📝 Notes
+## Notes
 
-- All templates are built with **simplicity and usability** in mind  
-- Minimal setup — just clone, customize, and deploy  
-- Designed to be **clean, responsive, and scalable**  
-- Documentation included for quick understanding  
+- Minimal setup — just clone, customize, and deploy
+- Clean, responsive, and scalable design across devices
+- Very minimal AI usage — only for sourcing images and generating placeholder text
+- All creative assets belong to their respective artists and are used with proper credit or for demonstration purposes only
+- Clear documentation included for easy understanding and quick start  
 
 ---
  
