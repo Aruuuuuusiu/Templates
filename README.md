@@ -1,13 +1,13 @@
-# 📦 Templates
+# Templates
 
 A curated collection of templates I’ve designed, built, and refined over time.  
 Each template includes a live preview, a quick overview, and documentation so you can explore and start using it with minimal setup.
 
 ---
 
-## 🚀 All Templates
+## All Templates
 
-### 🏛️ Alexandria Library
+### 1. Alexandria Library
 
 ![Alexandria Preview](https://ik.imagekit.io/ky5pz0iof/Screenshot%202026-03-23%20222225.png)
 
