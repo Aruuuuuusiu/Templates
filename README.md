@@ -23,7 +23,7 @@ Built with a clean layout, smooth navigation, and a strong content-first approac
 
 **Links**
 - 🔗 [Live Demo](https://aruuuuuusiu-alexandria.netlify.app/)
-- 📄 [Documentation](Alexandria_Feature_Documentation.docx](https://ik.imagekit.io/ky5pz0iof/Alexandria_Feature_Documentation.docx))
+- 📄 [Documentation](https://ik.imagekit.io/ky5pz0iof/Alexandria_Feature_Documentation.docx)
 
 ---
 
