@@ -22,7 +22,7 @@ Built with a clean layout, smooth navigation, and a strong content-first approac
 - Responsive design
 
 **Links**
-- 🔗 [Live Demo](https://aruuuuuusiu-alexandria.netlify.app/)
+- 🔗 [Live Demo](https://arustack-alexandria.netlify.app/)
 - 📄 [Documentation](https://ik.imagekit.io/ky5pz0iof/Alexandria_Feature_Documentation.docx)
 
 ---
