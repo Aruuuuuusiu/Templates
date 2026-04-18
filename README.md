@@ -26,6 +26,25 @@ Built with a clean layout, smooth navigation, and a strong content-first approac
 - 📄 [Documentation](https://ik.imagekit.io/ky5pz0iof/Alexandria_Feature_Documentation.docx)
 
 ---
+### 2. F.O.R.M. Architecture
+
+![F.O.R.M. Preview](https://ik.imagekit.io/ky5pz0iof/Screenshot%202026-04-18%20221702.png)
+
+**Overview**  
+A modern architectural website template built to showcase spatial design, projects, and visual storytelling.
+Crafted with a refined layout, fluid navigation, and a strong focus on form, structure, and clarity.
+
+**Features**
+- Structured project presentation
+- Fluid navigation
+- Minimal, purpose-driven UI
+- Fully responsive
+
+**Links**
+- 🔗 [Live Demo](https://arustack-form.netlify.app/)
+- 📄 [Documentation](https://ik.imagekit.io/ky5pz0iof/FORM_Feature_Documentation.docx)
+
+---
 
 ## Notes
 
